@@ -1,6 +1,6 @@
 # Dropzone-System-Architecture
 
-![Folie2](https://user-images.githubusercontent.com/71438205/185086727-c454144a-5bba-4ea7-8e32-7408b267c7a8.PNG)
+![Folie2](https://user-images.githubusercontent.com/71438205/185086893-d00fa68f-9aff-467f-8842-f2cfa11d76a2.jpg)
 ![Folie3](https://user-images.githubusercontent.com/71438205/185086741-8744842e-4a90-49de-99fe-7995a734236f.PNG)
 ![Folie4](https://user-images.githubusercontent.com/71438205/185086755-82ca0ed0-0ddb-4f75-bf99-2d6bc0e7292f.PNG)
 ![Folie5](https://user-images.githubusercontent.com/71438205/185086759-d44683f1-248b-429b-9f30-924cf0f05ae8.PNG)
